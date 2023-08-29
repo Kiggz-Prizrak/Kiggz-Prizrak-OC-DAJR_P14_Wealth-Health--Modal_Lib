@@ -1,0 +1,15 @@
+{
+  "name": "modal_by_kiggz",
+  "version": "1.0.0",
+  "description": "modal form to appear whent it's called",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kiggz",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^18.2.0"
+  },
+  "devDependencies": {}
+}
